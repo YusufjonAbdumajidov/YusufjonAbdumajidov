@@ -1,6 +1,6 @@
 ### Hi there, I am Yusuf 👋
 
-I am an expert React based Frontend developer specializing in building dynamic and responsive web applications with cutting-edge technologies and best practices 💻
+I am a React based Frontend developer specializing in building dynamic and responsive web applications with cutting-edge technologies and best practices 💻
 
 
 <!--
