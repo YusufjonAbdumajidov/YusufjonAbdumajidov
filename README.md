@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I am Yusuf 👋
+
+I am an expert React based Frontend developer specializing in building dynamic and responsive web applications with cutting-edge technologies and best practices 💻
+
 
 <!--
 **YusufjonAbdumajidov/YusufjonAbdumajidov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
